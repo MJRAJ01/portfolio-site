@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/markraj.JPG"),
   imageSize: 375,
   message:
-    "My name is Mark Raj. I'm a sophomore at Vanderbilt majoring in Computer Science and Economics with a passion for web development and research. I love all things cooking and try my best to keep up wtih basketball and politics!",
+    "My name is Mark Raj. I'm a junior at Vanderbilt majoring in Computer Science and Economics with a passion for product management, web development, and research. I love all things cooking and try my best to keep up with basketball, jazz, !",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -98,7 +98,7 @@ const skills = {
     { name: "Electron", value: 80 },
   ],
   softSkills: [
-    { name: "Product Managment", value: 85 },
+    { name: "Product Management", value: 85 },
     { name: "Collaboration", value: 90 },
     { name: "Positivity", value: 85 },
     { name: "Adaptability", value: 85 },
